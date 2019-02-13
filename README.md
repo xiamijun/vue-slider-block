@@ -7,4 +7,4 @@
 
 > 效果
 
-![](http://git.flyui.cn/edu-comps/sliderBlock/raw/master/images/test.gif)
+![](http://xiejun-image.oss-cn-hangzhou.aliyuncs.com/hexo/%E6%97%B6%E9%97%B4%E6%BB%91%E5%9D%97.gif)
